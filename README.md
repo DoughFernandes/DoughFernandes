@@ -18,9 +18,6 @@ Nascido em Salto de Pirapora - SP<br>
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://instagram.com/dooughsouza?utm_source=qr&igshid=OGIxMTE0OTdkZA==)
 [![DIO](https://img.shields.io/badge/DIGITAL_INNOVATION_ONE-000?style=for-the-badge)](https://www.dio.me/users/dfdsf1996)
 
-
-
-
 ## **Habilidades**
 
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)

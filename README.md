@@ -1,17 +1,17 @@
+![texto alternativo - alt](imagem/perfil.jpeg)
 
-# Olá, sejam bem vindos ao meu mundo!!
-
-Sejá bem vindo, meu nome é Douglas Tenho 27 anos,sou estudante de engenharia de software na Udemy.com | DIO.me.
-
-Nascido em Salto de Pirapora - SP
-
+# Olá, bem vindo ao meu Pérfil.
+ Meu nome é Douglas Fernandes, tenho 27 anos, sou estudante de engenharia de software na Udemy.com | DIO.me.<br>
+Nascido em Salto de Pirapora - SP<br>
 
 ## **Hobbys**
 
-- 🎮 Video Game 🎮
-- 🖥️ Estudar 🖥️
-- 📺 Assistir Filmes 📺
-
+<div style=text-inline>
+ 🎮 Video Game 
+| 🖥️ Estudar 
+| 📺 Assistir Filmes 
+| ⚽ Futebol
+</div>
 
 ## **Conecte-se comigo**
 
@@ -22,19 +22,15 @@ Nascido em Salto de Pirapora - SP
 
 
 
-## **Habilidades de front-end**
+
+## **Habilidades**
 
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=yellow)
+![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
+![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
+![Vscode](https://img.shields.io/badge/Vscode-black?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
 
-
-
-## **GitHub Stats**
-
-![DoughFernandes GitHub stats](https://github-readme-stats.vercel.app/api?username=DoughFernandes&show_icons=true&theme=dark)
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=DoughFernandes&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/DoughFernandes/dio-lab-open-source)
-
-## **Minhas Contribuições**
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=DougFernandes&theme=_icons=true&theme=dark)
+## Perfil DIO.me (Click na imagem!)
+<a href="https://www.dio.me/users/dfdsf1996"><img src="imagem/dio-me-perfil.jpeg" alt=""></a>

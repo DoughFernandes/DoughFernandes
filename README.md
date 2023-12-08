@@ -1,4 +1,4 @@
-![texto alternativo - alt](imagem/perfil.jpeg)
+![texto alternativo - alt](imagem/topo.png)
 
 # Olá, bem vindo ao meu Pérfil.
  Meu nome é Douglas Fernandes, tenho 27 anos, sou estudante de engenharia de software na Udemy.com | DIO.me.<br>
@@ -33,4 +33,4 @@ Nascido em Salto de Pirapora - SP<br>
 ![Vscode](https://img.shields.io/badge/Vscode-black?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
 
 ## Perfil DIO.me (Click na imagem!)
-<a href="https://www.dio.me/users/dfdsf1996"><img src="imagem/dio-me-perfil.jpeg" alt=""></a>
+<a href="https://www.dio.me/users/dfdsf1996"><img src="imagem/perfil.png" alt=""></a>

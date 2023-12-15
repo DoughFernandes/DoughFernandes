@@ -1,4 +1,6 @@
-# Olá, Bem Vindo ao meu Perfil.
+![texto alternativo - alt](imagem/topo.png)
+
+# Olá, bem vindo ao meu Pérfil
  Meu nome é Douglas Fernandes, tenho 27 anos, sou estudante de engenharia de software na Udemy.com | DIO.me.<br>
 Nascido em Salto de Pirapora - SP<br>
 
@@ -11,7 +13,7 @@ Nascido em Salto de Pirapora - SP<br>
 | ⚽ Futebol
 </div>
 
-## **Conecte-se comigo**
+## Conecte-se comigo
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=GitHub)](https://github.com/DoughFernandes)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/douglas-fernandes-616068287/)

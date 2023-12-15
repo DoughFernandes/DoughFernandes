@@ -1,6 +1,6 @@
 ![texto alternativo - alt](imagem/topo.png)
 
-# Olá, bem vindo ao meu Pérfil.
+# Olá, bem vindo ao meu Pérfil
  Meu nome é Douglas Fernandes, tenho 27 anos, sou estudante de engenharia de software na Udemy.com | DIO.me.<br>
 Nascido em Salto de Pirapora - SP<br>
 
@@ -20,7 +20,7 @@ Nascido em Salto de Pirapora - SP<br>
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://instagram.com/dooughsouza?utm_source=qr&igshid=OGIxMTE0OTdkZA==)
 [![DIO](https://img.shields.io/badge/DIGITAL_INNOVATION_ONE-000?style=for-the-badge)](https://www.dio.me/users/dfdsf1996)
 
-## Habilidades
+## **Habilidades**
 
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)

@@ -1,5 +1,3 @@
-![texto alternativo - alt](imagem/topo.png)
-
 # Olá, bem vindo ao meu Pérfil
  Meu nome é Douglas Fernandes, tenho 27 anos, sou estudante de engenharia de software na Udemy.com | DIO.me.<br>
 Nascido em Salto de Pirapora - SP<br>

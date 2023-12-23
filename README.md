@@ -1,15 +1,13 @@
-# Olá, bem vindo ao meu Pérfil
- Meu nome é Douglas Fernandes, tenho 27 anos, sou estudante de engenharia de software na Udemy.com | DIO.me.<br>
+# Olá, Bem Vindo ao meu Pérfil
+ Meu nome é Douglas Fernandes, tenho 27 anos, sou estudante de TI na Udemy.com | DIO.me.<br>
 Nascido em Salto de Pirapora - SP<br>
 
 ## **Hobbys**
 
-<div style=text-inline>
  🎮 Video Game 
 | 🖥️ Estudar 
 | 📺 Assistir Filmes 
 | ⚽ Futebol
-</div>
 
 ## Conecte-se comigo
 
@@ -26,3 +24,6 @@ Nascido em Salto de Pirapora - SP<br>
 ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
 ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
 ![Vscode](https://img.shields.io/badge/Vscode-black?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
+[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
+ ![Bootstrap](https://img.shields.io/badge/bootstrap-000?style=for-the-badge&logo=bootstrap&logoColor=264CE4)

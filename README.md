@@ -12,17 +12,13 @@ class SobreMim extends Desenvolvedor {
   cidade = "São Paulo"
 }
 console.log("Olá me chamo " + nome + ", sou estudande de " + area + ", nasci em " + dataNasc + " atualmente moro em " + cidade + "." )
-```
 
-```
 Olá me chamo Douglas Fernandes, sou estudande de TI, nasci em 24/07/1996 atualmente moro em São Paulo.
 ```
 
 ## HOBBYS
 
-```
 🎮 Video Game | 🖥️ Estudar | 📺 Assistir Filmes | ⚽ Futebol
-```
 
 ## Conecte-se comigo
 

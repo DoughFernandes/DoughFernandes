@@ -1,13 +1,28 @@
 # Olá, Bem Vindo ao meu Pérfil
- Meu nome é Douglas Fernandes, tenho 27 anos, sou estudante de TI na Udemy.com | DIO.me.<br>
-Nascido em Salto de Pirapora - SP<br>
 
-## **Hobbys**
+![Perfil](/Imagem/topo.png)
 
- 🎮 Video Game 
-| 🖥️ Estudar 
-| 📺 Assistir Filmes 
-| ⚽ Futebol
+ ```js
+import Desenvolvedor from "DoughFernandes";
+
+class SobreMim extends Desenvolvedor {
+  nome = "Douglas Fernandes";
+  area = "TI";
+  dataNasc = "24/07/1996";
+  cidade = "São Paulo"
+}
+console.log("Olá me chamo " + nome + ", sou estudande de " + area + ", nasci em " + dataNasc + " atualmente moro em " + cidade + "." )
+```
+
+```
+Olá me chamo Douglas Fernandes, sou estudande de TI, nasci em 24/07/1996 atualmente moro em São Paulo.
+```
+
+## HOBBYS
+
+```
+🎮 Video Game | 🖥️ Estudar | 📺 Assistir Filmes | ⚽ Futebol
+```
 
 ## Conecte-se comigo
 

@@ -7,7 +7,7 @@ import Desenvolvedor from "DoughFernandes";
 
 class SobreMim extends Desenvolvedor {
   nome = "Douglas Fernandes";
-  area = "TI";
+  area = "FRONt-END";
   dataNasc = "24/07/1996";
   cidade = "São Paulo"
 }
